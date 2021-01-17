@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  PROJECT_ID: ${{secrests.GKE_PROJECT}}
+  PROJECT_ID: ${{secrets.GKE_PROJECT}}
   GKE_CLUSTER: github-actions-gke
   GKE_ZONE: us-central1-c
   DEPLOYMENT_NAME: github-actions-gke-deployment
