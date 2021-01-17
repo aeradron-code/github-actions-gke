@@ -4,5 +4,3 @@ kind: Kustomization
 resources:
   - deployment.yaml
   - service.yaml
-
-  name: Build and Deploy to GKE
