@@ -28,3 +28,5 @@ In this we have set up the following workflow
 7. Push the changes to github repo
 
 This is how you can set up the GitHub Actions and trigger on each push to the repository the workflow will get triggered and if success the code will be published to GKE.
+
+Tutorial Link: https://youtu.be/_Vy631QpfI0
